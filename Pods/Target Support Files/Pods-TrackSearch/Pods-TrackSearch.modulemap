@@ -1,0 +1,6 @@
+framework module Pods_TrackSearch {
+  umbrella header "Pods-TrackSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

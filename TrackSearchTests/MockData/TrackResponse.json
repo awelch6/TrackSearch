@@ -1,0 +1,5 @@
+{
+ "resultCount":1,
+ "results": [
+{"artistName":"Britney Spears", "collectionName":"The Essential Britney Spears", "trackName":"3", "trackPrice":1.29, "releaseDate":"2009-10-02T07:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":2, "discNumber":2, "trackCount":17, "trackNumber":12, "trackTimeMillis":205533, "country":"USA", "currency":"USD", "primaryGenreName":"Pop"}]
+}
